@@ -1,12 +1,3 @@
-## Tools for using Sublime Text 3 with Panda.js
+## Tools for Panda.js game engine
 
-### Snippets
-
-`gamec` extend new game class.
-
-`gamem` create new game module.
-
-#### Install
-
-Put `.sublime-snippet` files into your `Packages/User/` folder.
-http://www.sublimetext.com/docs/3/packages.html
+http://github.com/ekelokorpi/panda.js
