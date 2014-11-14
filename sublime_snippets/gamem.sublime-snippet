@@ -1,0 +1,17 @@
+<!-- Create Panda.js module -->
+<snippet>
+	<content><![CDATA[
+game.module(
+	'${1:game.$2}'
+)
+.require(
+	$3
+)
+.body(function() {
+	
+$4
+
+});
+]]></content>
+	<tabTrigger>gamem</tabTrigger>
+</snippet>

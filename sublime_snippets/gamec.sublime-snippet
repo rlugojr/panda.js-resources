@@ -1,0 +1,11 @@
+<!-- Create Panda.js class -->
+<snippet>
+	<content><![CDATA[
+game.createClass('${1:ClassName}', {
+	init: function($2) {
+		$3
+	}
+});
+]]></content>
+	<tabTrigger>gamec</tabTrigger>
+</snippet>
