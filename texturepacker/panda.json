@@ -3,8 +3,8 @@
         "{{sprite.fullName}}": {
             "x": {{sprite.frameRect.x}},
             "y": {{sprite.frameRect.y}},
-            "width": {{sprite.frameRect.width}},
-            "height": {{sprite.frameRect.height}}
+            "w": {{sprite.frameRect.width}},
+            "h": {{sprite.frameRect.height}}
         }{% if not forloop.last %}, {% endif %}{% endfor %}
     },
     "meta": {
